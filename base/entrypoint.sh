@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cd /app
-npm install --production
+npm install --quiet --production
 npm start
